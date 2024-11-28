@@ -3,7 +3,7 @@
 ![Status do Projeto](https://img.shields.io/badge/Status-Em_Desenvolvimento-brightgreen.svg)
 ![Badge React](https://img.shields.io/badge/React-18.0.0-blue.svg)
 
-Este é um projeto desenvolvido na cadeira de Desenvolvimento de aplicações orientada a componente utilizando a biblioteca **React.js**. O objetivo do projeto é 
+Este é um projeto desenvolvido na cadeira de Desenvolvimento de aplicações orientada a componente utilizando a biblioteca **React.js**.
 
 ## 🎯 Funcionalidades
 
