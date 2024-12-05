@@ -10,6 +10,10 @@
 .titulo-page{
     text-align: center;
     padding-top: 4vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
 }
 
 .wrap-card:hover{

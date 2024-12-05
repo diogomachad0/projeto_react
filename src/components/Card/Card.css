@@ -2,12 +2,12 @@
     background-color: red;
     border-bottom-left-radius: 14px;
     border-bottom-right-radius: 14px;
-    padding: 100px;
+    padding: 40px;
     width: 10vw;
     display: flex;
     flex-direction: column;
-    justify-content: end;
-    align-items: end;
+    justify-content: center;
+    align-items: center;
 }
 
 .card-imagem {

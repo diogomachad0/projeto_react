@@ -5,7 +5,7 @@ function HomePage(){
         <>
                 <div className="home-container">
                     <div>
-                    <h1>Save The Cars!</h1>
+                    <h2>Save The Cars!</h2>
                         <p>Salve, organize e gerencie a lista dos seus carros favoritos em um só lugar.</p>
                     </div>
                     </div>

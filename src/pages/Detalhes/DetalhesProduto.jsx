@@ -29,7 +29,7 @@ function DetalhesProdutoPage(){
     return(
         <>
 
-        <h1>Detalhes do carro</h1>
+        <h2 className="container-detalhes">Detalhes do carro</h2>
 
             <div className="container-detalhes">
                 <div className="container-image-detalhes">

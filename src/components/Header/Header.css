@@ -45,11 +45,6 @@
 li {
     font-size: 34px;
 }
-a.inactive:hover{
-    color: red;
-    background-color: white;
-    border-radius: 6px;
-}
 a{
     text-decoration: none;
     color: white;

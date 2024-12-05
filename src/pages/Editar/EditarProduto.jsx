@@ -56,9 +56,10 @@ function EditarProdutoPage(){
 
     return(
         <>
-        {loading && <p>Carregando...</p>}
-        <h1  className="titulo-page">Editar carro já existente</h1>
+
         <form onSubmit={handleSubmit} className="form-container">
+
+            <h1>Editar carro</h1>
         <div className="campo">
                 <input
                     placeholder='Nome*'
