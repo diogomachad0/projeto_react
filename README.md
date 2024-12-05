@@ -7,10 +7,10 @@ Este é um projeto desenvolvido na cadeira de Desenvolvimento de Aplicações Or
 
 ## 🎯 Funcionalidades
 
-- Vizualização de produtos
-- Cadastro de produtos
-- Editar produtos
-- Excluir produtos
+- Vizualização de carros
+- Cadastro de carros
+- Editar carros
+- Excluir carros
 - Validações
 ## 🛠️ Tecnologias utilizadas
 
