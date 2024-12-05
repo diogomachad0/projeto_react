@@ -1,0 +1,76 @@
+.container-detalhes{
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    margin-top: 8px;
+    gap: 2vw;
+    padding-bottom: 12vh;
+    height: 300px;
+}
+
+.container-image-detalhes{
+    background-color:white;
+    height: 300px;
+    width: 540px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-dados-detalhes{
+    color: white;
+    background-color:red;
+    border-radius: 20px;
+    padding: 4vh;
+}
+
+.container-dados-detalhes hr{
+    width: 100%;
+    background-color: white;
+
+}
+
+.container-operacoes{
+    display: flex;
+    flex-direction: row;
+    gap: 10%;
+    justify-content: center;
+}
+
+.delete-button{
+    margin-top: 5vh;
+    width: 100%;
+    height: 30px;
+    border-radius: 14px;
+    background-color: white
+}
+
+.edit-button{
+    margin-top: 5vh;
+    width: 100%;
+    height: 30px;
+    border-radius: 14px;
+    background-color: white;
+}
+.edit-button:hover{
+    scale: 1.1;
+    background-color: white;
+}
+
+.item-imagem{
+    border-radius: 20px;
+    width: 100%;
+    object-fit: contain;
+
+}
+
+.item-name{
+    text-align: center;
+    margin-bottom: 20%;
+}
+
+
+.item-price{
+    text-align: center;
+}

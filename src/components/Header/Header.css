@@ -1,0 +1,56 @@
+.active {
+    background-color: white;
+    color: black;
+    border-radius: 6px;
+    padding: 20px;
+}
+.inactive {
+    color: white;
+    border-radius: 6px;
+    padding: 20px;
+}
+
+
+
+.header-container {
+    background-color: red;
+    height: 20vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.titulo {
+    align-self: center;
+    color: white;
+    font-size: 2em;
+    padding: 40px;
+    border-radius: 28px;
+}
+
+.navi ul{
+    display: flex;
+    gap: 20px;
+}
+
+.navi li{
+    display: flex;
+    list-style: none;
+}
+
+.navi ul li a{
+    font-size: 30px;
+}
+
+li {
+    font-size: 34px;
+}
+a.inactive:hover{
+    color: red;
+    background-color: white;
+    border-radius: 6px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}

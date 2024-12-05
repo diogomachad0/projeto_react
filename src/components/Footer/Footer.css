@@ -1,0 +1,12 @@
+.rodape{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+
+footer{
+    background-color:red;
+    color: white;
+    text-align: center;
+    padding: 3vh;
+}
