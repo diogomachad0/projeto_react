@@ -1,6 +1,6 @@
 # Projeto React - Consumo API
 
-![Status do Projeto](https://img.shields.io/badge/Status-Em_Desenvolvimento-brightgreen.svg)
+![Status do Projeto](https://img.shields.io/badge/Status-Concluido-brightgreen.svg)
 ![Badge React](https://img.shields.io/badge/React-18.0.0-blue.svg)
 
 Este é um projeto desenvolvido na cadeira de Desenvolvimento de Aplicações Orientada a Componentes utilizando a biblioteca **React.js**.
