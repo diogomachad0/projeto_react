@@ -10,7 +10,7 @@ Este é um projeto desenvolvido na cadeira de Desenvolvimento de Aplicações Or
 - Vizualização de carros
 - Cadastro de carros
 - Editar carros
-- Excluir carros
+- Excluir carros 
 - Validações
 ## 🛠️ Tecnologias utilizadas
 
